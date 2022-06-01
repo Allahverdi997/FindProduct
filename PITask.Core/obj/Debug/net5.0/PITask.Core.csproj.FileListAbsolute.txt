@@ -1,0 +1,11 @@
+C:\Users\Allahverdi\Desktop\MEProjects\PSTask\PITask\PITask\PITask.Core\bin\Debug\net5.0\PITask.Core.deps.json
+C:\Users\Allahverdi\Desktop\MEProjects\PSTask\PITask\PITask\PITask.Core\bin\Debug\net5.0\PITask.Core.dll
+C:\Users\Allahverdi\Desktop\MEProjects\PSTask\PITask\PITask\PITask.Core\bin\Debug\net5.0\ref\PITask.Core.dll
+C:\Users\Allahverdi\Desktop\MEProjects\PSTask\PITask\PITask\PITask.Core\bin\Debug\net5.0\PITask.Core.pdb
+C:\Users\Allahverdi\Desktop\MEProjects\PSTask\PITask\PITask\PITask.Core\obj\Debug\net5.0\PITask.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Allahverdi\Desktop\MEProjects\PSTask\PITask\PITask\PITask.Core\obj\Debug\net5.0\PITask.Core.AssemblyInfoInputs.cache
+C:\Users\Allahverdi\Desktop\MEProjects\PSTask\PITask\PITask\PITask.Core\obj\Debug\net5.0\PITask.Core.AssemblyInfo.cs
+C:\Users\Allahverdi\Desktop\MEProjects\PSTask\PITask\PITask\PITask.Core\obj\Debug\net5.0\PITask.Core.csproj.CoreCompileInputs.cache
+C:\Users\Allahverdi\Desktop\MEProjects\PSTask\PITask\PITask\PITask.Core\obj\Debug\net5.0\PITask.Core.dll
+C:\Users\Allahverdi\Desktop\MEProjects\PSTask\PITask\PITask\PITask.Core\obj\Debug\net5.0\ref\PITask.Core.dll
+C:\Users\Allahverdi\Desktop\MEProjects\PSTask\PITask\PITask\PITask.Core\obj\Debug\net5.0\PITask.Core.pdb

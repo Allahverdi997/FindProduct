@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "hXWh8WGywEAacFqnC8NBxkSY2JoYrIvjlqb1NFWAo9oyCOJxnIYkrSUPKa8IjuzRE3NvBo+QgRnobaV/uCfF4w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Es-Selamun Aleykum\\Desktop\\Pasa Sigorta\\PITask\\PITask.Client\\PITask.Client.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Es-Selamun Aleykum\\.nuget\\packages\\automapper\\11.0.1\\automapper.11.0.1.nupkg.sha512",
+    "C:\\Users\\Es-Selamun Aleykum\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\Es-Selamun Aleykum\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
